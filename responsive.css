@@ -53,7 +53,7 @@
     }
 
     .main-message{
-        transform: translateY(50%);
+        transform: translateY(40%);
     }
 
     .main-message h1 {
@@ -269,7 +269,7 @@
     }
 
     .main-message{
-        transform: translateY(50%);
+        transform: translateY(40%);
     }
 
     .title-heading h1{
