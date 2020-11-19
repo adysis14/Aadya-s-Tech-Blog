@@ -341,7 +341,7 @@
     }
 
     .nav-list{
-        width: 168rem;
+        width: 100%;
         height: 14vh;
         background-color: transparent;
         position: relative;
